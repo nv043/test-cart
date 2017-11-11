@@ -1,4 +1,4 @@
-ass ShoppingCart(object):
+class ShoppingCart(object):
     def __init__(self):
         self.items = []
 
